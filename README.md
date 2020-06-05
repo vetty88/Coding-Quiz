@@ -15,8 +15,8 @@ Launched via Github hosting (github.io)
 
 Screenshot of Project (Google Chrome): 
 ![Screenshot](./Assets/screenshot.PNG?raw=true)
-Web URL: https://vetty88.github.io/HMWK3-PasswordGenerator/
-Repo: https://github.com/vetty88/HMWK3-PasswordGenerator
+Web URL: https://vetty88.github.io/Coding-Quiz/
+Repo: https://github.com/vetty88/Coding-Quiz
 
 
 **Usage**
