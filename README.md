@@ -1,5 +1,5 @@
-Coding Quiz
-04 Web APIs: Code Quiz
+**Coding Quiz**
+*✨04 Web APIs: Code Quiz✨*
 
 **Table of Contents (N/A)**
 **Installation**
