@@ -1,0 +1,105 @@
+body {
+  font-family: 'Segoe UI', Roboto Mono, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 120%;
+  background-color: rgb(9, 4, 24);
+  font-family: 'Roboto Mono' , monospace;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
+
+a {
+  color: white;
+  font-weight: bold;
+  text-decoration: italic;
+  transition: color 0.1s;
+}
+
+a:hover {
+  color: lightyellow;
+}
+
+button {
+  display: inline-block;
+  margin: 20px;
+  cursor: pointer;
+  font-size: 120%;
+  background-color: rgb(9, 4, 24);
+  border-radius: 10px;
+  padding: 5px 10px;
+  color: lightskyblue;
+  border: 5;
+  transition: background-color 0.1s;
+}
+
+button:hover {
+  background-color: yellowgreen;
+  color: red;
+}
+
+.choices button {
+  display: block;
+  color: white;
+}
+
+input[type="text"] {
+  font-size: 120%;
+  font-weight: bold;
+  color: red;
+}
+
+ol {
+  padding-left: 20px;
+  max-height: 400px;
+  overflow: auto;
+  color: white;
+}
+
+li {
+  padding: 10px;
+  list-style: decimal inside none;
+  color: white;
+}
+
+
+li:nth-child(odd) {
+  background-color: mediumaquamarine;
+  color: black;
+}
+
+.wrapper {
+  margin: 100px auto 0 auto;
+  max-width: 600px;
+  color: white;
+}
+
+.hide {
+  display: none;
+}
+
+.start {
+  text-align: center;
+}
+
+.scores {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.feedback {
+  font-style: italic;
+  font-size: 120%;
+  margin-top: 20px;
+  padding-top: 20px;
+  color: whitesmoke;
+  border-top: 5px solid #ccc;
+}
+
+.timer {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: white;
+}
