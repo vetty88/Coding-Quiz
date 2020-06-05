@@ -1,42 +1,53 @@
 # 04 Web APIs: Code Quiz
 
-As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+# HMWK3-PasswordGenerator
+Password Generator with Javascript 
+(Unit 3)
 
-## User Story
+**Table of Contents (N/A)**
+**Installation**
+Original source code downloaded from Gitlab: Monash Bootcamp/Trilogy Education repository: https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-mel-fsf-pt-05-2020-u-c
 
-```
-AS A coding bootcamp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
+Source code edited in VS Code
 
-## Acceptance Criteria
+Source code functionality verified in Google Chrome Browser
 
-```
-<!-- GIVEN I am taking a code quiz -->
-<!-- WHEN I click the start button
-<!-- THEN a timer starts and I am presented with a question -->
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly -->
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and score
-```
+Repository created in Github Added edited code to folder, pushed to githhub repo
 
-The following animation demonstrates the application functionality:
+Launched via Github hosting (github.io)
 
-![code quiz](./Assets/04-web-apis-homework-demo.gif)
+Screenshot of Project (Google Chrome): 
+![Screenshot](./screen.PNG?raw=true)
+Web URL: https://vetty88.github.io/HMWK3-PasswordGenerator/
+Repo: https://github.com/vetty88/HMWK3-PasswordGenerator
 
-### Review
 
-You are required to submit the following for review:
+**Usage**
+Homework Activity. Suitable for usage of simple web portfolio
 
-* The URL of the functional, deployed application.
+**Credits**
+Code Author: Monash University/Trilogy Education: https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-mel-fsf-pt-05-2020-u-c folder titled reference: "Unit 02 CSS Bootstrap Homework: Responsive Portfolio."
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+Resources utilised to edit the code: 
+* Monash University ReadMe and Slide Materials: https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-mel-fsf-pt-05-2020-u-c 
+* Mozilla MDN WebDocs: https://developer.mozilla.org/en-US/ 
+* W3 Schools: https://www.w3schools.com/
+* Stack Overflow: https://www.stackoverflow.com/
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Youtube sources: 
+* 'Build a Password Generator with JavaScript - Tutorial' Web Dev Simplified: https://www.youtube.com/watch?v=iKo9pDKKHnc&t=984s
+* 'Random Password Generator Tutorial (HTML, CSS, JavaScript' TechnicalCafe: https://www.youtube.com/watch?v=9sT03jEwcaw
+
+**License**
+2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+**Badges**
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+
+![Made with love in Bairnsdale ](https://madewithlove.now.sh/au?heart=true&template=plastic&text=Bairnsdale+)
+
+**Tests**
+Tests recommended in Google Chrome - use VS Code live server. Inspect feature (Google) utilised to tidy CSS code.
+
+
+*© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.*
