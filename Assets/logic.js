@@ -13,8 +13,8 @@ var initialsEl = document.getElementById("initials");
 var feedbackEl = document.getElementById("feedback");
 
 // sound effects
-var sfxRight = new Audio("assets/correct.wav");
-var sfxWrong = new Audio("assets/incorrect.wav");
+var sfxRight = new Audio("./Assets/correct.wav");
+var sfxWrong = new Audio("./Assets/incorrect.wav");
 
 function startQuiz() {
   // hide start screen
