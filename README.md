@@ -4,13 +4,9 @@
 **Table of Contents (N/A)**
 **Installation**
 Original source code downloaded from Gitlab: Monash Bootcamp/Trilogy Education repository.
-
 Source code edited in VS Code
-
 Source code functionality verified in Google Chrome Browser
-
 Repository created in Github Added edited code to folder, pushed to githhub repo
-
 Launched via Github hosting (github.io)
 
 Screenshot of Project (Google Chrome): 
